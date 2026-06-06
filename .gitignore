@@ -27,5 +27,4 @@ dist-ssr
 .env
 
 # Other docs
-PRD.md
 supabase.md
